@@ -1,0 +1,20 @@
+{
+    "name": "togiweb/trendyol-php",
+    "description": "Trendyol PHP API",
+    "type": "library",
+    "keywords": ["trendyol", "eticaret", "php api", "trendyol php api", "pazaryeri"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tolga Çağlayan",
+            "email": "info@togiajans.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TW\\PazarYeri\\Trendyol\\": "TW/PazarYeri/Trendyol"
+        }
+    },
+    "minimum-stability": "stable"
+}
